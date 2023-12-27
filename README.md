@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **Machine Learning and other stuff..**
+- 🌱 I’m currently learning ``` Machine Learning ``` and other stuff..**
 
-- 👯 I’m currently learning **data structure and algo**
+- 👯 I’m currently learning ``` Data Structure and Algorithm ```
 
 - 🤝 I’m looking for help with **some project ideas**
 
