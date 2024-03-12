@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on My Personal Portfolio [here](https://www.linkedin.com/in/aakash-mohole-231359233/)
-- Current Status : Learning Something Amazing...
+- Current Status : Learning Something Amazing and Exploring Hackathon and Datathons....
 - 🌱 I’m currently Learning and trying to Master ``` Data Structures ```  and ```Algorithms ```
 - 👯 I’m looking to collaborate on any ```Data Science``` Project or any Simple ```Web Dev``` or ```Python Devlopment ``` Project or ```ML, Computer Vision ..```
 - 🤔 I’m always ready for any help if you want  
