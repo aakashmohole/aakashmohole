@@ -3,7 +3,7 @@
 </div>
 
 # Hi there! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
-### Aakash Mohole ..
+### Aakash Mohole ...
 
 
 - 🔭 I’m currently working on HealthAI Predictive Suit [here](https://github.com/aakashmohole/HealthAI-Predictive-Suite)
